@@ -1,3 +1,4 @@
+#Project Description and Outline
 There are 2 notebooks included in the submission. The first is titled 'Original_Preproess.ipynb' - this notebook
 trains the 2 specified models on the originally pre-processed dataset. The 2nd is Custom_Preprocess.ipynb', this
 notebook trains the 2 specified models on data pre-processed by me.
@@ -29,5 +30,5 @@ the 'Custom_Preprocess.ipynb' notebook. They can be loaded under the 'Evaluation
 INSTALL REQUIREMENTS:
 pip install -r requirements.txt
 
-if any issues are encountered in the running of any of the notebooks please do not hesitate to contact me via
+if any issues are encountered in the running of any of the notebooks or if you would like access to the existing trained models please do not hesitate to contact me via
 cian.ferriter@ucdconnect.ie
